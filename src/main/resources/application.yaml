@@ -5,7 +5,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/posto-combustivel
     username: admin
-    password: 12345
+    password: 123
     driver-class-name: org.postgresql.Driver
 
   jpa:
